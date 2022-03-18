@@ -134,6 +134,15 @@
         123
       ],
       "id": "13"
+    },
+    {
+      "name": "Christine",
+      "species": "Dog",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
